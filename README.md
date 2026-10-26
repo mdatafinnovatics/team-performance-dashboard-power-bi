@@ -132,6 +132,9 @@ erDiagram
 
 ## 📊 Dashboard Walkthrough
 
+**▶️ Full 60-second walkthrough:**
+https://github.com/user-attachments/assets/7437551f-b76b-456b-8e06-9cebc443645d
+
 ### 1️⃣ Team Performance Overview
 
 <p align="center"><img src="images/page1_team_overview.png" alt="Team Performance Overview" width="900"/></p>
