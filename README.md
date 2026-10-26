@@ -81,7 +81,8 @@ Operations managers had monthly KPI numbers but no quick way to see **where to a
 
 ## 🧩 Data Model
 
-One fact table, a DAX date table, a business-rules table and small disconnected helper tables for buttons and visual rows. All measures live in a dedicated `_Measures` table.
+One fact table, a DAX date table, a business-rules table and small disconnected helper tables for buttons and visual rows.
+Measures are organised into themed measure tables (team, target, last month, employee, card images, cell colours) so they are easy to find.
 
 ```mermaid
 erDiagram
